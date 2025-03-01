@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ASP.NET_CORE_WEB_API__CRUD_SECOND2.Controllers
 {
+    /*student controller class*/
     [Route("api/[controller]")]
     [ApiController]
     public class StudentController : ControllerBase
